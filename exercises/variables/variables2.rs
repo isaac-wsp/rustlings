@@ -1,6 +1,6 @@
 // variables2.rs
 // Make me compile! Execute the command `rustlings hint variables2` if you want a hint :)
-s=
+
 
 fn main() {
     let x: u32 = 10;
